@@ -7,3 +7,5 @@
 /Users/nataliemurphy/Desktop/Epicodus/cSharp/ToDoList/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.AssemblyInfo.cs
 /Users/nataliemurphy/Desktop/Epicodus/cSharp/ToDoList/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.dll
 /Users/nataliemurphy/Desktop/Epicodus/cSharp/ToDoList/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.pdb
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/ToDoList/ToDoList/bin/Debug/netcoreapp2.2/ToDoList.runtimeconfig.json
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/ToDoList/ToDoList/bin/Debug/netcoreapp2.2/ToDoList.runtimeconfig.dev.json
