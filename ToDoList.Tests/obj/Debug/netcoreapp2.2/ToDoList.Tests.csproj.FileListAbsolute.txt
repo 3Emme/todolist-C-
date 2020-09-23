@@ -1,0 +1,17 @@
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/ToDoList/ToDoList.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/ToDoList/ToDoList.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/ToDoList/ToDoList.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/ToDoList/ToDoList.Tests/bin/Debug/netcoreapp2.2/ToDoList.Tests.deps.json
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/ToDoList/ToDoList.Tests/bin/Debug/netcoreapp2.2/ToDoList.Tests.runtimeconfig.json
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/ToDoList/ToDoList.Tests/bin/Debug/netcoreapp2.2/ToDoList.Tests.runtimeconfig.dev.json
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/ToDoList/ToDoList.Tests/bin/Debug/netcoreapp2.2/ToDoList.Tests.dll
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/ToDoList/ToDoList.Tests/bin/Debug/netcoreapp2.2/ToDoList.Tests.pdb
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/ToDoList/ToDoList.Tests/bin/Debug/netcoreapp2.2/ToDoList.dll
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/ToDoList/ToDoList.Tests/bin/Debug/netcoreapp2.2/ToDoList.pdb
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/ToDoList/ToDoList.Tests/obj/Debug/netcoreapp2.2/ToDoList.Tests.csprojAssemblyReference.cache
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/ToDoList/ToDoList.Tests/obj/Debug/netcoreapp2.2/ToDoList.Tests.csproj.CoreCompileInputs.cache
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/ToDoList/ToDoList.Tests/obj/Debug/netcoreapp2.2/ToDoList.Tests.AssemblyInfoInputs.cache
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/ToDoList/ToDoList.Tests/obj/Debug/netcoreapp2.2/ToDoList.Tests.AssemblyInfo.cs
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/ToDoList/ToDoList.Tests/obj/Debug/netcoreapp2.2/ToDoList.Tests.csproj.CopyComplete
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/ToDoList/ToDoList.Tests/obj/Debug/netcoreapp2.2/ToDoList.Tests.dll
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/ToDoList/ToDoList.Tests/obj/Debug/netcoreapp2.2/ToDoList.Tests.pdb

@@ -1,0 +1,9 @@
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/ToDoList/ToDoList/bin/Debug/netcoreapp2.2/ToDoList.deps.json
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/ToDoList/ToDoList/bin/Debug/netcoreapp2.2/ToDoList.dll
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/ToDoList/ToDoList/bin/Debug/netcoreapp2.2/ToDoList.pdb
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/ToDoList/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.csprojAssemblyReference.cache
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/ToDoList/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.csproj.CoreCompileInputs.cache
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/ToDoList/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.AssemblyInfoInputs.cache
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/ToDoList/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.AssemblyInfo.cs
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/ToDoList/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.dll
+/Users/nataliemurphy/Desktop/Epicodus/cSharp/ToDoList/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.pdb
